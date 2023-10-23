@@ -1,5 +1,5 @@
 # Critical Heat Flux Detection 🔥🎆🎇
-### A scratch-deployment ml side project ( with GCP app engine Deployment )
+### A scratch-2-deployment ml side project ( with GCP app engine Deployment )
 ---
 This dataset was prepared for the journal article entitled "On the prediction of critical heat flux using a physics-informed machine learning-aided framework" (doi: 10.1016/j.applthermaleng.2019.114540). The dataset contains processed and compiled records of experimental critical heat flux and boundary conditions used for the work presented in the article.
 
@@ -11,12 +11,12 @@ The reliability and economic competitiveness of a thermal system hinge upon its 
 
 ---
 *Here are some photos if you are not a fan of reading :)*
-![deployed app image](https://github.com/MaxxCode8/critical-heat-flux-prediction/blob/main/deploy%20image%20streamlit1.png)
-![deployed app image 2](https://github.com/MaxxCode8/critical-heat-flux-prediction/blob/main/deploy%20image%20streamlit2.png)
+![deployed app image](https://github.com/MaxxCode8/critical-heat-flux-prediction/blob/main/deployimagestreamlit1.png)
+![deployed app image 2](https://github.com/MaxxCode8/critical-heat-flux-prediction/blob/main/deployimagestreamlit2.png)
 
 ---
 *Gcp App Engine Usage Statistics* 
-![Gcp App Engine Usage Statistics](https://github.com/MaxxCode8/critical-heat-flux-prediction/blob/main/gcp%20deployed%20summary/Summary%20app%20engine%20usage.png)
+![Gcp App Engine Usage Statistics](https://github.com/MaxxCode8/critical-heat-flux-prediction/blob/main/gcpdeployedsummary/Summaryappengineusage.png)
 
 ---
 *The Flow in which the project happened:*
