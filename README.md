@@ -10,5 +10,42 @@ The reliability and economic competitiveness of a thermal system hinge upon its 
 🧭**Problem Statement:** The target feature is **x_e_out** which is a continuous variable. The scoring metric is **RMSE**. 
 
 ---
-Here are some photos if you are not a fan of reading :)
+*Here are some photos if you are not a fan of reading :)*
+![deployed app image](https://github.com/MaxxCode8/critical-heat-flux-prediction/blob/main/deploy%20image%20streamlit1.png)
+![deployed app image 2](https://github.com/MaxxCode8/critical-heat-flux-prediction/blob/main/deploy%20image%20streamlit2.png)
 
+---
+*Gcp App Engine Usage Statistics* 
+![Gcp App Engine Usage Statistics](https://github.com/MaxxCode8/critical-heat-flux-prediction/blob/main/gcp%20deployed%20summary/Summary%20app%20engine%20usage.png)
+
+---
+*The Flow in which the project happened:*
+
+<span style="font-size:30px"><b><i>Get Dataset</i></b></span><br>
+<p>        ⬇</p>
+<p>        ⬇</p>
+<span style="font-size:30px"><b><i>JupyterNB (Baseline Model.ipynb)</i></b></span><br>
+<br>
+<p>        ⬇</p>
+<p>        ⬇</p>
+<span style="font-size:30px"><b><i>Streamlit (app.py)</i></b></span> <br>
+<br>
+<p>        ⬇</p>
+<p>        ⬇</p>
+<span style="font-size:30px"><b><i>Dockerfile & app.yaml (GCP app engine config)</i></b></span> <br>
+<br>
+<p>        ⬇</p>
+<p>        ⬇</p>
+<span style="font-size:30px"><b><i>Google Cloud SDK (Deploy)</i></b></span>
+
+---
+## References:
+AndrewNG and "the Internet" helped me get an understanding of ML and AI... Consistency and Passion is the Key 🔑<br>
+[Streamlit Docs](https://docs.streamlit.io/) | [Streamlit Syntax CheatSheet](https://docs.streamlit.io/library/cheatsheet) <br>
+[App Engine Docs](https://cloud.google.com/build/docs/deploying-builds/deploy-appengine) <br>
+[One of many Youtube Videos I Reffered for App Engine deployment](https://youtu.be/03KgXhg-voY?si=jKImhdyMI3-Ogpi5) <br>
+*you can also search for articles and other videos and just try sticking to one of them till the end!* <br>
+
+---
+Note: The Dataset and Problem Statement was provided as a Part of [TMLC-MGP](https://themlco.com/academy/mgp/) 🙏 <br>
+___Happy Learning!___
