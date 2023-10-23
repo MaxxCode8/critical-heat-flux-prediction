@@ -1,4 +1,4 @@
-![deploy image streamlit1](https://github.com/MaxxCode8/critical-heat-flux-prediction/assets/105921273/24369ff5-04d4-4a8a-8621-3fac8ecf2204)# Critical Heat Flux Detection 🔥🎆🎇
+# Critical Heat Flux Detection 🔥🎆🎇
 ### A scratch-2-deployment ml side project ( with GCP app engine Deployment )
 ---
 This dataset was prepared for the journal article entitled "On the prediction of critical heat flux using a physics-informed machine learning-aided framework" (doi: 10.1016/j.applthermaleng.2019.114540). The dataset contains processed and compiled records of experimental critical heat flux and boundary conditions used for the work presented in the article.
