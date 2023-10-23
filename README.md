@@ -19,7 +19,7 @@ The reliability and economic competitiveness of a thermal system hinge upon its 
 ![Summary app engine usage](https://github.com/MaxxCode8/critical-heat-flux-prediction/assets/105921273/7b5824cb-3017-4270-825f-a6efe3a28495)
 
 ---
-*The Flow in which the project happened:*
+<span style="font-size:35px"><b>                                  The Flow in which the project happened:</b></span>
 
 <span style="font-size:30px"><b><i>Get Dataset</i></b></span><br>
 <p>        ⬇</p>
