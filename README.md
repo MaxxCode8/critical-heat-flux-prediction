@@ -45,7 +45,8 @@ AndrewNG and "the Internet" helped me get an understanding of ML and AI... Consi
 [App Engine Docs](https://cloud.google.com/build/docs/deploying-builds/deploy-appengine) <br>
 [One of many Youtube Videos I Reffered for App Engine deployment](https://youtu.be/03KgXhg-voY?si=jKImhdyMI3-Ogpi5) <br>
 *you can also search for articles and other videos and just try sticking to one of them till the end!* <br>
-PS: There are multiple ways to deploy an app on GCP, for simplicity's sake I have chosen the App Engine way.
+PS: There are multiple ways to deploy an app on GCP, for *simplicity's sake* I have chosen the App Engine way.
+
 ---
 Note: The Dataset and Problem Statement was provided as a Part of [TMLC-MGP](https://themlco.com/academy/mgp/) 🙏 <br>
 ___Happy Learning!___
