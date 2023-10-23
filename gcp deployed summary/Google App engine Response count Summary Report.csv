@@ -1,0 +1,49 @@
+TimeSeries ID,
+project_id,your-project-id
+version_id,20231021t225139
+module_id,streamlit-demo
+Sat Oct 21 2023 23:25:00 GMT+0530 (India Standard Time),0.016666667
+Sat Oct 21 2023 23:30:00 GMT+0530 (India Standard Time),0.05
+Sat Oct 21 2023 23:35:00 GMT+0530 (India Standard Time),0.1
+Sat Oct 21 2023 23:40:00 GMT+0530 (India Standard Time),0.15
+Sat Oct 21 2023 23:45:00 GMT+0530 (India Standard Time),0.016666667
+Sat Oct 21 2023 23:50:00 GMT+0530 (India Standard Time),0.083333333
+Sat Oct 21 2023 23:55:00 GMT+0530 (India Standard Time),0.183333333
+Sun Oct 22 2023 00:05:00 GMT+0530 (India Standard Time),0.05
+Sun Oct 22 2023 00:30:00 GMT+0530 (India Standard Time),0.103333333
+Sun Oct 22 2023 00:35:00 GMT+0530 (India Standard Time),0.13
+Sun Oct 22 2023 00:40:00 GMT+0530 (India Standard Time),0.1
+Sun Oct 22 2023 00:45:00 GMT+0530 (India Standard Time),0.066666667
+Sun Oct 22 2023 01:15:00 GMT+0530 (India Standard Time),0.06
+Sun Oct 22 2023 01:20:00 GMT+0530 (India Standard Time),0.023333333
+Sun Oct 22 2023 01:25:00 GMT+0530 (India Standard Time),0.016666667
+Sun Oct 22 2023 03:30:00 GMT+0530 (India Standard Time),0.083333333
+Sun Oct 22 2023 04:30:00 GMT+0530 (India Standard Time),0.05
+Sun Oct 22 2023 06:45:00 GMT+0530 (India Standard Time),0.1
+Sun Oct 22 2023 07:15:00 GMT+0530 (India Standard Time),0.066666667
+Sun Oct 22 2023 08:30:00 GMT+0530 (India Standard Time),0.066666667
+Sun Oct 22 2023 09:20:00 GMT+0530 (India Standard Time),0.183333333
+Sun Oct 22 2023 09:25:00 GMT+0530 (India Standard Time),0.083333333
+Sun Oct 22 2023 10:05:00 GMT+0530 (India Standard Time),0.1
+Sun Oct 22 2023 10:35:00 GMT+0530 (India Standard Time),0.1
+Sun Oct 22 2023 10:40:00 GMT+0530 (India Standard Time),0.116666667
+Sun Oct 22 2023 11:10:00 GMT+0530 (India Standard Time),0.016666667
+Sun Oct 22 2023 12:50:00 GMT+0530 (India Standard Time),0.046666667
+Sun Oct 22 2023 12:55:00 GMT+0530 (India Standard Time),0.003333333
+Sun Oct 22 2023 13:20:00 GMT+0530 (India Standard Time),0.05
+Sun Oct 22 2023 14:50:00 GMT+0530 (India Standard Time),0.066666667
+Sun Oct 22 2023 15:25:00 GMT+0530 (India Standard Time),0.116666667
+Sun Oct 22 2023 15:45:00 GMT+0530 (India Standard Time),0.076666667
+Sun Oct 22 2023 15:50:00 GMT+0530 (India Standard Time),0.04
+Sun Oct 22 2023 16:10:00 GMT+0530 (India Standard Time),0.05
+Sun Oct 22 2023 17:00:00 GMT+0530 (India Standard Time),0.033333333
+Sun Oct 22 2023 17:20:00 GMT+0530 (India Standard Time),0.033333333
+Sun Oct 22 2023 17:35:00 GMT+0530 (India Standard Time),0.016666667
+Sun Oct 22 2023 19:00:00 GMT+0530 (India Standard Time),0.066666667
+Sun Oct 22 2023 19:30:00 GMT+0530 (India Standard Time),0.05
+Sun Oct 22 2023 19:35:00 GMT+0530 (India Standard Time),0.07
+Sun Oct 22 2023 19:55:00 GMT+0530 (India Standard Time),0.016666667
+Sun Oct 22 2023 20:50:00 GMT+0530 (India Standard Time),0.016666667
+Sun Oct 22 2023 21:00:00 GMT+0530 (India Standard Time),0.016666667
+Sun Oct 22 2023 23:10:00 GMT+0530 (India Standard Time),0.033333333
+Sun Oct 22 2023 23:15:00 GMT+0530 (India Standard Time),0.016666667

@@ -1,0 +1,19 @@
+service: streamlit-demo
+runtime: custom
+env: flex
+
+automatic_scaling:
+  min_num_instances: 1
+  max_num_instances: 3
+  cool_down_period_sec: 180
+  cpu_utilization:
+    target_utilization: 0.6
+
+resources:
+  cpu: 1
+  memory_gb: 1.0
+  disk_size_gb: 15
+
+network: 
+  forwarded_ports:
+    - 8088/tcp
